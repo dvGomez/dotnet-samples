@@ -1,0 +1,15 @@
+D:\Estudo\DI\DependencyInjectionApp\Core\bin\Debug\net5.0\Core.deps.json
+D:\Estudo\DI\DependencyInjectionApp\Core\bin\Debug\net5.0\Core.dll
+D:\Estudo\DI\DependencyInjectionApp\Core\bin\Debug\net5.0\ref\Core.dll
+D:\Estudo\DI\DependencyInjectionApp\Core\bin\Debug\net5.0\Core.pdb
+D:\Estudo\DI\DependencyInjectionApp\Core\bin\Debug\net5.0\Domain.dll
+D:\Estudo\DI\DependencyInjectionApp\Core\bin\Debug\net5.0\Domain.pdb
+D:\Estudo\DI\DependencyInjectionApp\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+D:\Estudo\DI\DependencyInjectionApp\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\DI\DependencyInjectionApp\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+D:\Estudo\DI\DependencyInjectionApp\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+D:\Estudo\DI\DependencyInjectionApp\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+D:\Estudo\DI\DependencyInjectionApp\Core\obj\Debug\net5.0\Core.csproj.CopyComplete
+D:\Estudo\DI\DependencyInjectionApp\Core\obj\Debug\net5.0\Core.dll
+D:\Estudo\DI\DependencyInjectionApp\Core\obj\Debug\net5.0\ref\Core.dll
+D:\Estudo\DI\DependencyInjectionApp\Core\obj\Debug\net5.0\Core.pdb
